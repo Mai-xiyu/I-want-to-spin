@@ -40,8 +40,6 @@ public class KeyBindings {
             GLFW.GLFW_KEY_KP_SUBTRACT,
             "category.datl.keys"
         ));
-        
-        // 注册客户端tick事件
         ClientTickEvents.END_CLIENT_TICK.register(client -> {
             handleKeyInputs(client);
             ClientTickHandler.onClientTick();
@@ -50,8 +48,6 @@ public class KeyBindings {
     
     private static void handleKeyInputs(Minecraft client) {
         DatlConfig config = DatlConfig.getInstance();
-        
-        // 处理旋转切换
         if (spinToggleKey.consumeClick()) {
             config.toggleSpin();
             if (client.player != null) {
@@ -60,8 +56,6 @@ public class KeyBindings {
                 ), false);
             }
         }
-        
-        // 处理连跳切换
         if (bhopToggleKey.consumeClick()) {
             config.toggleBhop();
             if (client.player != null) {
@@ -70,8 +64,6 @@ public class KeyBindings {
                 ), false);
             }
         }
-        
-        // 处理速度调整
         if (speedIncreaseKey.consumeClick()) {
             float newSpeed = Math.min(config.getSpinSpeed() + 0.5f, 100.0f);
             config.setSpinSpeed(newSpeed);
@@ -81,7 +73,6 @@ public class KeyBindings {
                 ), false);
             }
         }
-        
         if (speedDecreaseKey.consumeClick()) {
             float newSpeed = Math.max(config.getSpinSpeed() - 0.5f, 0.5f);
             config.setSpinSpeed(newSpeed);
