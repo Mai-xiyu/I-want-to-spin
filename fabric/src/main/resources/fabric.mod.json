@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "datl",
+  "version": "${version}",
+  "name": "datl",
+  "description": "直接开转！",
+  "authors": [
+    "Mai-xiyu"
+  ],
+  "contact": {
+    "homepage": ""
+  },
+  "license": "GPL-3.0",
+  "icon": "assets/datl/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "org.xiyu.yee.datl.fabric.DatlFabric"
+    ],
+    "client": [
+      "org.xiyu.yee.datl.fabric.client.DatlFabricClient"
+    ]
+  },
+  "mixins": [
+    "datl.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.13",
+    "minecraft": "~1.21.6",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

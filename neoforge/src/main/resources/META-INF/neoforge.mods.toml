@@ -1,0 +1,32 @@
+modLoader = "javafml"
+loaderVersion = "[2,)"
+#issueTrackerURL = ""
+license = "GNU GPL 3.0"
+
+[[mods]]
+modId = "datl"
+version = "${version}"
+displayName = "datl"
+authors = "Mai-xiyu"
+description = '''
+直接开转！
+'''
+#logoFile = ""
+
+[[dependencies.datl]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.datl]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.6,)"
+ordering = "NONE"
+side = "BOTH"
+
+
+[[mixins]]
+config = "datl.mixins.json"
