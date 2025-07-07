@@ -27,5 +27,15 @@ public class PlayerRenderHandler {
             }
         }
     }
+    
+    /**
+     * 在渲染玩家时应用旋转效果 (带 Player 参数的版本)
+     */
+    public static void onRenderPlayer(Player player, PoseStack poseStack) {
+        // 只对本地玩家应用旋转效果
+        if (player == Minecraft.getInstance().player) {
+            onRenderPlayer(poseStack);
+        }
+    }
 
 }
