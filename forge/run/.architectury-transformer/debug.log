@@ -2,24 +2,24 @@
 [Architectury Transformer DEBUG] Closed File Systems for C:\Users\xiyu\Desktop\新建文件夹\datl\common\build\devlibs\datl-common-1.0-dev.jar
 [Architectury Transformer DEBUG] Preparing tiny remapper prepared transformer: dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Provided 114 classpath jar(s):
-[Architectury Transformer DEBUG]  - E:\.gradle\caches\fabric-loom\1.21.6\forge\1.21.6-56.0.0\client-extra.jar
+[Architectury Transformer DEBUG]  - E:\.gradle\caches\fabric-loom\1.21.6\forge\1.21.6-56.0.8\client-extra.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\dev.architectury\architectury-injectables\1.0.10\62db2a366d662606d1b23ad02ccc3212ed37ec3\architectury-injectables-1.0.10.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\net.fabricmc\fabric-loader\0.16.14\5778d47f536bf2c63ed2abc1a56f5a1c129e34a\fabric-loader-0.16.14.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\25.0.0\c1e6b966db352094ac3bf7f88f3bdef332fe43f0\annotations-25.0.0.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.2\25ea2e8b0c338a877313bd4672d3fe056ea78f0d\jsr305-3.0.2.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\net.minecraftforge\bootstrap-dev\2.1.8\a03b83480ad592aaa1fc0c15ff3215be081b5603\bootstrap-dev-2.1.8.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\net.minecraftforge\bootstrap\2.1.8\7ce55508387cf35eeb0eb4895bd84bec854ead93\bootstrap-2.1.8.jar
-[Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlearlydisplay\1.21.6-56.0.0\a40544daae2e2e3facdc7b3e1361fdcf05a2371e\fmlearlydisplay-1.21.6-56.0.0.jar
-[Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.21.6-56.0.0\90e7013203a11e09a35734d9534f68b6a9b8d96a\javafmllanguage-1.21.6-56.0.0.jar
-[Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.21.6-56.0.0\1c1bbffb762c64147b00ae3c1a039f62f291faf\lowcodelanguage-1.21.6-56.0.0.jar
-[Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.21.6-56.0.0\ea9c5a87935ad15327d3e6e61955f00e4d0f6fb9\mclanguage-1.21.6-56.0.0.jar
-[Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.21.6-56.0.0\857e32a2c789fa0441a5b7cedb598f46d8e60853\fmlcore-1.21.6-56.0.0.jar
-[Architectury Transformer DEBUG]  - E:\.gradle\caches\fabric-loom\forge\transformed-dependencies-v1\net\minecraftforge\cc1e2799ed137666a4a110297b955c593570702023c7905cb37cc3aa2607fa6f\fmlloader\1.21.6-56.0.0\fmlloader-1.21.6-56.0.0.jar
+[Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlearlydisplay\1.21.6-56.0.8\48a577b0fab08d125a83bfe7ac9c2983dc364af\fmlearlydisplay-1.21.6-56.0.8.jar
+[Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.21.6-56.0.8\95445b428f438fa199b55d632583e979462719\javafmllanguage-1.21.6-56.0.8.jar
+[Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.21.6-56.0.8\3ae38a5d963e58e3659a273582d411cc4279f792\lowcodelanguage-1.21.6-56.0.8.jar
+[Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.21.6-56.0.8\d055d56f5d8a28950ef9817ccd5c4cf103db33bb\mclanguage-1.21.6-56.0.8.jar
+[Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.21.6-56.0.8\415478991975a378dbe7aa96be29e9b06f6362ac\fmlcore-1.21.6-56.0.8.jar
+[Architectury Transformer DEBUG]  - E:\.gradle\caches\fabric-loom\forge\transformed-dependencies-v1\net\minecraftforge\f44202aea97c3569ec3dcb57bb1248fe45510c1eff00e8f3977654748c579bc4\fmlloader\1.21.6-56.0.8\fmlloader-1.21.6-56.0.8.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\net.minecraftforge\forgespi\7.1.5\c01beea469b66cf787614239b7e0f791329b3816\forgespi-7.1.5.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\net.minecraftforge\modlauncher\10.2.4\781dde4dcb54a7bd4f66b256d47e82710939b1bf\modlauncher-10.2.4.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\net.minecraftforge\bootstrap-api\2.1.8\f77d6527282dfc12e2460a3155467f40f9a2673b\bootstrap-api-2.1.8.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\net.minecraftforge\accesstransformers\8.2.2\5b17acd565e357c5812574e4db75b96c86c7db93\accesstransformers-8.2.2.jar
-[Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\net.minecraftforge\eventbus\7.0-beta.7\7ed4d8bbc3609eeefae80c5a713a8ac6b38e7369\eventbus-7.0-beta.7.jar
+[Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\net.minecraftforge\eventbus\7.0-beta.9\a7155a9703a04d45ba2758bf39552a1d807cefcd\eventbus-7.0-beta.9.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\org.jspecify\jspecify\1.0.0\7425a601c1c7ec76645a78d22b8c6a627edee507\jspecify-1.0.0.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\net.minecraftforge\coremods\5.2.6\9528a9f2133ec5284122ac3d62cfff8bc8c6bba0\coremods-5.2.6.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\org.openjdk.nashorn\nashorn-core\15.4\f67f5ffaa5f5130cf6fb9b133da00c7df3b532a5\nashorn-core-15.4.jar
@@ -45,11 +45,11 @@
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.7.1\f97a3b319f0ed6a8cd944dc79060d3912a28985f\asm-analysis-9.7.1.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.7.1\3a53139787663b139de76b627fca0084ab60d32c\asm-tree-9.7.1.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.7.1\f0ed132a49244b042cd0e15702ab9f2ce3cc8436\asm-9.7.1.jar
-[Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\net.sf.jopt-simple\jopt-simple\5.0.4\4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c\jopt-simple-5.0.4.jar
+[Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\net.sf.jopt-simple\jopt-simple\6.0-alpha-3\2ab1a73e1e22d2b73469362a0908a98644b681d\jopt-simple-6.0-alpha-3.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\com.mojang\logging\1.5.10\9ab1202793717af9df9c1704d0a02892067001eb\logging-1.5.10.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-slf4j2-impl\2.24.1\8e3ddc96464ef7f768823e7e001a52b23de8cd0a\log4j-slf4j2-impl-2.24.1.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-core\2.24.1\c85285146f28d8c8962384f786e2dff04172fb43\log4j-core-2.24.1.jar
-[Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\io.github.juuxel\unprotect\1.2.0\49cc229a0469f28fae41593a9537743ac6a951dc\unprotect-1.2.0.jar
+[Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\io.github.juuxel\unprotect\1.3.1\432f07e4f647aa3c33aba0b7e630dd3948f65bae\unprotect-1.3.1.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-api\2.24.1\7ebeb12c20606373005af4232cd0ecca72613dda\log4j-api-2.24.1.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\org.codehaus.plexus\plexus-utils\3.3.1\9b41b2b76b1bfe3774411fe22f5868058a9fc822\plexus-utils-3.3.1.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.17.0\b17d2136f0460dcc0d2016ceefca8723bdf4ee70\commons-lang3-3.17.0.jar
@@ -113,23 +113,23 @@
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.3.3\b543467b7ff3c6920539a88ee602d34098628be5\lwjgl-jemalloc-3.3.3.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.3.3\daada81ceb5fc0c291fbfdd4433cb8d9423577f2\lwjgl-openal-3.3.3.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\org.lz4\lz4-java\1.8.0\4b986a99445e49ea5fbf5d149c4b63f6ed6c6780\lz4-java-1.8.0.jar
-[Architectury Transformer DEBUG]  - E:\.gradle\caches\fabric-loom\minecraftMaven\net\minecraft\forge-1.21.6-56.0.0-minecraft-merged\1.21.6-loom.mappings.1_21_6.layered+hash.40545-v2-forge-1.21.6-56.0.0\forge-1.21.6-56.0.0-minecraft-merged-1.21.6-loom.mappings.1_21_6.layered+hash.40545-v2-forge-1.21.6-56.0.0.jar
+[Architectury Transformer DEBUG]  - E:\.gradle\caches\fabric-loom\minecraftMaven\net\minecraft\forge-1.21.6-56.0.8-minecraft-merged\1.21.6-loom.mappings.1_21_6.layered+hash.40545-v2-forge-1.21.6-56.0.8\forge-1.21.6-56.0.8-minecraft-merged-1.21.6-loom.mappings.1_21_6.layered+hash.40545-v2-forge-1.21.6-56.0.8.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-epoll\4.1.118.Final\7e6b89e3746acb7cf6f0aad993bbd058fc6d912e\netty-transport-native-epoll-4.1.118.Final-linux-x86_64.jar
 [Architectury Transformer DEBUG]  - E:\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-epoll\4.1.118.Final\82f94d0a9d837f6b6a580379373310ff7288c0f8\netty-transport-native-epoll-4.1.118.Final-linux-aarch_64.jar
-[Architectury Transformer] Read classpath in 1.728 s
+[Architectury Transformer] Read classpath in 1.938 s
 [Architectury Transformer DEBUG] Closed File Systems for C:\Users\xiyu\Desktop\新建文件夹\datl\common\build\devlibs\datl-common-1.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 8 transformer(s) from C:\Users\xiyu\Desktop\新建文件夹\datl\common\build\devlibs\datl-common-1.0-dev.jar to C:\Users\xiyu\AppData\Local\Temp\2670751700439106757.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@71623278
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@768b970c
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@5a4041cc
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@15b3e5b
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeAnnotations@61ca2dfa
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment@4b53f538
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeForgeMod@134593bf
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.FixForgeMixin@4bb4de6a
-[Architectury Transformer DEBUG] Transforming from C:\Users\xiyu\Desktop\新建文件夹\datl\common\build\devlibs\datl-common-1.0-dev.jar to C:\Users\xiyu\AppData\Local\Temp\2670751700439106757.jar with 8 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Transforming 8 transformer(s) from C:\Users\xiyu\Desktop\新建文件夹\datl\common\build\devlibs\datl-common-1.0-dev.jar to C:\Users\xiyu\AppData\Local\Temp\5109046577295717917.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@768b970c
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@5a4041cc
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@15b3e5b
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@61ca2dfa
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeAnnotations@4b53f538
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment@134593bf
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeForgeMod@4bb4de6a
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.FixForgeMixin@7ba18f1b
+[Architectury Transformer DEBUG] Transforming from C:\Users\xiyu\Desktop\新建文件夹\datl\common\build\devlibs\datl-common-1.0-dev.jar to C:\Users\xiyu\AppData\Local\Temp\5109046577295717917.jar with 8 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x000001a73e036c80@15bfd87
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformForgeEnvironment$$Lambda/0x00000128a8036c80@543e710e
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/minecraftforge/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/minecraftforge/api/distmarker/OnlyIn
@@ -142,7 +142,8 @@
 [Architectury Transformer DEBUG] Checking whether /datl.mixins.json is a mixin config.
 [Architectury Transformer DEBUG] Found mixin config(s): datl.mixins.json
 [Architectury Transformer DEBUG] Appended Launch Argument: [--mixin.config, datl.mixins.json]
-[Architectury Transformer DEBUG] Closed File Systems for C:\Users\xiyu\AppData\Local\Temp\2670751700439106757.jar
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\xiyu\AppData\Local\Temp\5109046577295717917.jar
 [Architectury Transformer] Listening at C:\Users\xiyu\Desktop\新建文件夹\datl\common\build\devlibs\datl-common-1.0-dev.jar
-[Architectury Transformer DEBUG] Temporary jar [C:\Users\xiyu\AppData\Local\Temp\2670751700439106757.jar] contains packages: org.xiyu.yee.datl.config, org.xiyu.yee.datl, org.xiyu.yee.datl.client
+[Architectury Transformer DEBUG] Temporary jar [C:\Users\xiyu\AppData\Local\Temp\5109046577295717917.jar] contains packages: org.xiyu.yee.datl.config, org.xiyu.yee.datl, org.xiyu.yee.datl.client
 [Architectury Transformer DEBUG] Closed File Systems for C:\Users\xiyu\Desktop\新建文件夹\datl\common\build\devlibs\datl-common-1.0-dev.jar
+[Architectury Transformer DEBUG] Classpath entry [C:\Users\xiyu\Desktop\新建文件夹\datl\forge\build\resources\main] contains packages: 

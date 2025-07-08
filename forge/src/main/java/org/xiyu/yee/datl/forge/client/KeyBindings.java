@@ -12,14 +12,12 @@ import org.lwjgl.glfw.GLFW;
 import org.xiyu.yee.datl.Datl;
 import org.xiyu.yee.datl.config.DatlConfig;
 import org.xiyu.yee.datl.client.ClientTickHandler;
-
+@Mod.EventBusSubscriber(modid = Datl.MOD_ID, value = Dist.CLIENT)
 public class KeyBindings {
     private static KeyMapping spinToggleKey;
     private static KeyMapping bhopToggleKey;
     private static KeyMapping speedIncreaseKey;
     private static KeyMapping speedDecreaseKey;
-    
-    @Mod.EventBusSubscriber(modid = Datl.MOD_ID, bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
     public static class ModEvents {
         @SubscribeEvent
         public static void registerKeyBindings(RegisterKeyMappingsEvent event) {
@@ -53,8 +51,6 @@ public class KeyBindings {
             event.register(speedDecreaseKey);
         }
     }
-    
-    @Mod.EventBusSubscriber(modid = Datl.MOD_ID, bus = Mod.EventBusSubscriber.Bus.FORGE, value = Dist.CLIENT)
     public static class ClientEvents {
         @SubscribeEvent
         public static void onClientTick(TickEvent.ClientTickEvent event) {

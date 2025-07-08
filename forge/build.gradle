@@ -7,34 +7,6 @@ architectury {
     forge()
 }
 
-// Configure Loom (used by Architectury)
-loom {
-    // Configure Mixin
-    mixin {
-        defaultRefmapName = "datl.refmap.json"
-    }
-    
-    // Configure run directories with proper JVM arguments
-    runs {
-        client {
-            client()
-            name "Forge Client"
-            source sourceSets.main
-            vmArgs "-XX:+IgnoreUnrecognizedVMOptions", "-XX:+AllowEnhancedClassRedefinition"
-            property "forge.logging.markers", "REGISTRIES"
-            property "forge.logging.console.level", "debug"
-        }
-        server {
-            server()
-            name "Forge Server"
-            source sourceSets.main
-            vmArgs "-XX:+IgnoreUnrecognizedVMOptions", "-XX:+AllowEnhancedClassRedefinition"
-            property "forge.logging.markers", "REGISTRIES"
-            property "forge.logging.console.level", "debug"
-        }
-    }
-}
-
 configurations {
     common {
         canBeResolved = true
@@ -45,6 +17,7 @@ configurations {
     developmentForge.extendsFrom common
 
     // Files in this configuration will be bundled into your mod using the Shadow plugin.
+    // Don't use the `shadow` configuration from the plugin itself as it's meant for excluding files.
     shadowBundle {
         canBeResolved = true
         canBeConsumed = false
@@ -52,7 +25,8 @@ configurations {
 }
 
 dependencies {
-    forge "net.minecraftforge:forge:${rootProject.minecraft_version}-${rootProject.forge_version}"
+    forge "net.minecraftforge:forge:$rootProject.minecraft_version-$rootProject.forge_version"
+    implementation('net.sf.jopt-simple:jopt-simple:6.0-alpha-3') { version { strictly '6.0-alpha-3' } }
 
     common(project(path: ':common', configuration: 'namedElements')) { transitive false }
     shadowBundle project(path: ':common', configuration: 'transformProductionForge')
